@@ -114,14 +114,14 @@ antes de realizar o `merge` da `pull-request` enviada, é importante desginar um
 
 ## Conflitos
 
-Essa é uma parte que muitos `devs` semtem medo, apreensão por não saber o quão simples é de se resolver um conflito utilizando o `VSCode`, abaixo segue alguns prints e cada um dele tem uma descrição do que deve ser feito.
+Essa é uma parte que muitos `devs` sentem medo ou apreensão por não saber o quão simples é de se resolver um conflito utilizando o `VSCode`, abaixo segue alguns prints e cada um deles tem uma descrição.
 
 ### 001
 
 ![Imagem1](https://i.imgur.com/UNP0zcb.png)
 
 Aqui temos um exemplo de conflitos,
-Destacado em verde, temos a atualização da nossa maquina, e destacado em roxo temos o rtrecho de código como está no repo oficial, o vscode é muito poderoso.
+Destacado em verde, temos a atualização da nossa maquina, e destacado em roxo temos o trecho de código como está no repositório oficial.
 
 ![Imagem2](https://i.imgur.com/6aQ3vpo.png)
 
@@ -136,7 +136,7 @@ Ao observarmos esta imagem, acima do nome `HEAD`, temos uma opção clicável co
 
 ![Imagem4](https://i.imgur.com/ZdNkCjo.png)
 
-Aqui temos a segunda opção, `Accept Incomming Change`, que significa aceitar as atualizações destacadas em roxo, se clicarmos nessa opção isso acontecerá:
+Aqui temos a segunda opção, `Accept Incomming Change`, que significa aceitar as atualizações destacadas em roxo(que é como está no repositório oficial), se clicarmos nessa opção isso acontecerá:
 
 ![Imagem5](https://i.imgur.com/WSaZh6z.png)
 
@@ -147,7 +147,7 @@ Aqui temos a segunda opção, `Accept Incomming Change`, que significa aceitar a
 
 ![Imagem6](https://i.imgur.com/NVpZOF0.png)
 
-A opção `Accept Both Changes` une as duas alterações, clicando nessa opção  o resultado será esse:
+A opção `Accept Both Changes` une as duas alterações:
 
 ![Imagem6](https://i.imgur.com/oYmkkd9.png)
 
@@ -157,6 +157,6 @@ A opção `Accept Both Changes` une as duas alterações, clicando nessa opção
 
 ![Imagem7](https://i.imgur.com/mwpmvkN.png)
 
-A opção`Compare Changes` abre uma aba no `VSCode` para que você possa comprar as alterações e decidir o que fica.
+A opção`Compare Changes` abre uma aba no `VSCode` para que você possa comprar as alterações e decidir o que fazer.
 
 ![Imagem8](https://i.imgur.com/zcOZGHR.png)
