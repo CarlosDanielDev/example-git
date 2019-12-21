@@ -110,8 +110,7 @@ Assim, temos a comprrensão do que está sendo enviado, e fica masi fácil de re
 A `pull-request` fica muito simples seguindo todos as práticas acima.
 
 Uma `pull-request` só deve ter o nome do `commit` caso só exista um `commit`, caso haja mais de um `commit`,
-antes de realizar o `merge` da `pull-request` enviada, é importante desginaar um mebro da equipe pra fazer o `code-review` da `pull-request`.
-
+antes de realizar o `merge` da `pull-request` enviada, é importante desginar um membro da equipe pra fazer o `code-review` da `pull-request`. 
 
 ## Conflitos
 
