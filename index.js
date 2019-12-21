@@ -8,6 +8,11 @@ app.get('/exemplo', (req, res)=> {
 app.post('/rota', (req, res)=>{
   return res.json({hello: 'wolrd'})
 })
+app.get('/teste', (req, res)=> {
+  return res.json({ex: 'Este é um teste'})
+})
+
+
 app.listen(3333, ()=>{
   console.log('Servidor rodando na porta 3333')
 })
