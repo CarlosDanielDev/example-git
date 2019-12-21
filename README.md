@@ -70,7 +70,7 @@ Padrão de nomes de branch: `prefix/title`.
 ```bash
 git checkout -b feature/cadastro-usuarios
 ```
-* `choeres`:
+* `chores`:
   * `chore/refatorar-relatorio`
 ```bash
 git checkout -b chore/refatorar-relatorio
