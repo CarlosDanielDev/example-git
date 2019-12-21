@@ -161,4 +161,4 @@ A opção`Compare Changes` abre uma aba no `VSCode` para que você possa comprar
 
 ![Imagem8](https://i.imgur.com/zcOZGHR.png)
 
-> Os padrões adotados aqui, não são necessáriaente obrigatórios, você é livre pra criar seus proprios padrões, mas é importante seguir-los depois de definidos.
+> Os padrões adotados aqui, não são necessáriaente obrigatórios, você é livre pra criar seus proprios padrões, mas é importante segui-los depois de definidos.
