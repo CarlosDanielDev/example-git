@@ -160,3 +160,5 @@ A opção `Accept Both Changes` une as duas alterações:
 A opção`Compare Changes` abre uma aba no `VSCode` para que você possa comprar as alterações e decidir o que fazer.
 
 ![Imagem8](https://i.imgur.com/zcOZGHR.png)
+
+> Os padrões adotados aqui, não sã necessáriaente obrigatórios, você é livre pra criar seus proprios padrões, mas é importante seguir-los depois de definidos.
