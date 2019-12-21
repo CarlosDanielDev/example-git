@@ -94,7 +94,7 @@ Um `push` deve ser feito ao término de uma tarefa/feature/fix.
 
 ***Como devo enviar um push ?***
 
-Um `push` deve ser enviado com a `branch` do desenvolvimento atual, abaixo segue um exemplo de envio de `push`, mas o padrão de envio de um psuh é `git push <origem> <nome-da-branch-atual>`
+Um `push` deve ser enviado com a `branch` do desenvolvimento atual, abaixo segue um exemplo de envio de `push`, mas o padrão de envio de um psuh é `git push <remote-name> <nome-da-branch-atual>`
 
 ### Push Ex:
 
